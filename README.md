@@ -23,7 +23,7 @@ I enjoy programming while having a cup of coffee. ☕️<br>
   <img src="https://img.shields.io/badge/Homebrew-white?style=flat-square&logo=Homebrew&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Xd-D9418C?style=flat-square&logo=Adobe Xd&logoColor=FF00DD"/>
+  <img src="https://img.shields.io/badge/Adobe Xd-ff61f6?style=flat-square&logo=Adobe Xd&logoColor=FF00DD"/>
 </p>
 
 <br>
