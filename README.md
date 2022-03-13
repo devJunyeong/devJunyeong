@@ -26,6 +26,7 @@ I enjoy programming while having a cup of coffee. ☕️<br>
   <img src="https://img.shields.io/badge/Spring-236DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-236DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-white?style=flat-square&logo=Flutter&logoColor=blue"/>
+   <img src="https://img.shields.io/badge/Playgrounds-F05138?style=flat-square&logo=Playgrounds&logoColor=white"/>
 </p>
 
 <br>
