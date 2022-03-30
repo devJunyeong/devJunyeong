@@ -13,7 +13,6 @@ I enjoy programming while having a cup of coffee. ☕️<br>
   
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  [iOS]: https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/CocoaPods-red?style=flat-square&logo=CocoaPods&logoColor=white"/>
