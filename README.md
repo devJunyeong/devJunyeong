@@ -5,7 +5,7 @@ I'm interested in Clean Architecture and Clean Swift and UI Framework, and funct
 
 I'm enjoy programming while having a cup of coffee. ☕️
 
-Big interest in Design Patterns and Refactoring. I'm Studying MVVM and ReactorKit, Tuist and Texture and Reactive programming. ⚙️
+Big interest in Design Patterns and Refactoring. I'm Studying MVP, MVVM and ReactorKit, Tuist and Texture and Reactive programming. ⚙️
 
 I'm interested in global service.
 
