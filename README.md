@@ -1,4 +1,6 @@
-### 👋 Hi there, I’m a Junior iOS Developer.
+### 👋 Hi there, I’m a Junior iOS Developer. 
+   
+I'm interested in Clean Architecture.
 
 I enjoy programming while having a cup of coffee. ☕️
 
