@@ -11,7 +11,7 @@ I'm interested in global service.
 
 I'm interested in learning and growing and I am committed to self-development.
 
-I'm a positive developer for code reviews.
+I'am a positive developer for code reviews.
 
 # Latest Articles
 
