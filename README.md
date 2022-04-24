@@ -2,8 +2,6 @@
    
 I'm interested in Clean Architecture.
 
-I enjoy programming while having a cup of coffee. ☕️
-
-I started mobile app development to bring meaningful impact to people. 🌎
+I'm enjoy programming while having a cup of coffee. ☕️
 
 Big interest in Design Patterns and Refactoring. I'm Studying MVC, MVVM and ReactorKit. ⚙️
