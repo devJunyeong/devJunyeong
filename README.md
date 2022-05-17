@@ -1,7 +1,7 @@
 # Hi there👋 
 I’m a Junior iOS Developer. 
 
-I'm interested in Clean Architecture and Clean Swift and UI Framework, and functional programming.
+I'm interested in Clean Swift and UI Framework.
 
 I'm enjoy programming while having a cup of coffee. ☕️
 
