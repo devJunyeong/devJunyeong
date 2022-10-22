@@ -4,7 +4,8 @@
 
 <br />
 Hi, I'm Junyeong Hwang, a iOS Software Engineer.
-- 💬 Ask me about anything [here](https://github.com/devJunyeong/devJunyeong/pulls)
+
+- 💬 Ask me about anything [here](https://github.com/devJunyeong/devJunyeong/issues)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://img.shields.io/badge/iOS-000000?style=flat-squaree&logo=Apple&logoColor=white"></code>
