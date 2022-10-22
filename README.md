@@ -12,5 +12,3 @@ Hi, I'm Junyeong Hwang, a iOS Software Engineer.
 <code><img height="20" src="https://img.shields.io/badge/Swift-FA7343?style=flat-squaree&logo=Swift&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/RxSwift-B7178c?style=flat-squaree&logo=ReactiveX&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=Python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Kotlin-CC342D?style=flat-squaree&logo=Kotlin&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Java-CC342D?style=flat-squaree&logo=Java&logoColor=white"></code>
