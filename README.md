@@ -13,6 +13,7 @@ Hi, I'm Junyeong Hwang, a iOS Software Engineer.
 <code><img height="20" src="https://img.shields.io/badge/RxSwift-B7178c?style=flat-squaree&logo=ReactiveX&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=Python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/GraphQL-3776AB?style=flat-squaree&logo=GraphQL&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/OpenGL-3776AB?style=flat-squaree&logo=OpenGL&logoColor=white"></code>
 
 
 *Visitor's count :eyes:**  
