@@ -10,7 +10,7 @@ Hi, I'm Junyeong Hwang, a iOS/Android Engineer.
 
 **Languages and Tools:**  
 <code><img height="20" src="https://img.shields.io/badge/iOS-000000?style=flat-squaree&logo=Apple&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Android-A4C639?style=flat-squaree&logo=Android&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Android-3DDC84?style=flat-squaree&logo=Android&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Swift-FA7343?style=flat-squaree&logo=Swift&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/RxSwift-B7178c?style=flat-squaree&logo=ReactiveX&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/GraphQL-3776AB?style=flat-squaree&logo=GraphQL&logoColor=white"></code>
