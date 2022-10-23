@@ -3,13 +3,14 @@
 <img src="https://github.com/GeekTree0101/Geektree0101/blob/master/hire.png" width=500pt />
 
 <br />
-Hi, I'm Junyeong Hwang, a iOS Software Engineer.
+Hi, I'm Junyeong Hwang, a iOS/Android Engineer.
 
 - 💬 Ask me about anything [here](https://github.com/devJunyeong/devJunyeong/issues)
 
 
 **Languages and Tools:**  
 <code><img height="20" src="https://img.shields.io/badge/iOS-000000?style=flat-squaree&logo=Apple&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Android-A4C639?style=flat-squaree&logo=Android&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Swift-FA7343?style=flat-squaree&logo=Swift&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/RxSwift-B7178c?style=flat-squaree&logo=ReactiveX&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/GraphQL-3776AB?style=flat-squaree&logo=GraphQL&logoColor=white"></code>
