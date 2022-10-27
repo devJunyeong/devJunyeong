@@ -3,7 +3,7 @@
 <img src="https://github.com/GeekTree0101/Geektree0101/blob/master/hire.png" width=500pt />
 
 <br />
-Hi, I'm Junyeong Hwang, a iOS/Front-End Engineer.
+Hi, I'm Junyeong Hwang, a iOS Software Engineer.
 
 - 💬 Ask me about anything [here](https://github.com/devJunyeong/devJunyeong/issues)
 
@@ -14,9 +14,6 @@ Hi, I'm Junyeong Hwang, a iOS/Front-End Engineer.
 <code><img height="20" src="https://img.shields.io/badge/RxSwift-B7178c?style=flat-squaree&logo=ReactiveX&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/GraphQL-3776AB?style=flat-squaree&logo=GraphQL&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/OpenGL-3776AB?style=flat-squaree&logo=OpenGL&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/TypeScript-007acc?style=flat-squaree&logo=TypeScript&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=flat-squaree&logo=JavaScript&logoColor=F0DB4F"></code>
-<code><img height="20" src="https://img.shields.io/badge/React-61DBFB?style=flat-squaree&logo=React&logoColor=white"></code>
 
 
 *Visitor's count :eyes:**  
