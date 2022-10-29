@@ -6,18 +6,18 @@
 
 
 <br />
-Hi, I'm Junyeong Hwang, a iOS/Frontend Engineer.
+Hi, I'm Junyeong Hwang, a Frontend Engineer.
 
 - 💬 Ask me about anything [here](https://github.com/devJunyeong/devJunyeong/issues)
 
 
 **Languages and Tools:**  
-<code><img height="20" src="https://img.shields.io/badge/iOS-000000?style=flat-squaree&logo=Apple&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Swift-F05138?style=flat-squaree&logo=Swift&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/RxSwift-B7178c?style=flat-squaree&logo=ReactiveX&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/TypeScript-007acc?style=flat-squaree&logo=TypeScript&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/HTML5-e34c26?style=flat-squaree&logo=HTML5&logoColor=ffffff"></code>
+<code><img height="20" src="https://img.shields.io/badge/CSS3-264de4?style=flat-squaree&logo=CSS3&logoColor=ffffff"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=flat-squaree&logo=JavaScript&logoColor=F0DB4F"></code>
+<code><img height="20" src="https://img.shields.io/badge/TypeScript-007acc?style=flat-squaree&logo=TypeScript&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/React-61DBFB?style=flat-squaree&logo=React&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Storybook-ff528c?style=flat-squaree&logo=Storybook&logoColor=ffffff"></code>
 
 
 *Visitor's count :eyes:**  
