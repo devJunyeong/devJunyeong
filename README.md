@@ -6,7 +6,7 @@
 
 
 <br />
-Hi, I'm Junyeong Hwang, a iOS/Android Engineer.
+Hi, I'm Junyeong Hwang, a iOS/Frontend Engineer.
 
 - 💬 Ask me about anything [here](https://github.com/devJunyeong/devJunyeong/issues)
 
