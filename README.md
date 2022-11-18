@@ -1,9 +1,9 @@
 ### Hi there, I'm [Junyeong Hwang!](https://github.com/devJunyeong) 👋
 
-<img src="https://github.com/GeekTree0101/Geektree0101/blob/master/hire.png" width=500pt />
+<img src="https://file.thisisgame.com/upload/tboard/user/2014/09/28/20140928220551_6685.jpg" width=500pt />
 
 <br />
-Hi, I'm Junyeong Hwang, a iOS Software Engineer.
+Hi, I'm Junyeong Hwang, a Product Engineer.
 
 - 💬 Ask me about anything [here](https://github.com/devJunyeong/devJunyeong/issues)
 
