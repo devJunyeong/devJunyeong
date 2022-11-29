@@ -2,7 +2,7 @@
 
 
 <br />
-Hi, I'm Junyeong Hwang, a Game programmer.
+Hi, I'm Junyeong Hwang, a Product Engineer.
 
 - 💬 Ask me about anything [here](https://github.com/devJunyeong/devJunyeong/issues)
 
