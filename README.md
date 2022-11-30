@@ -1,6 +1,9 @@
 ### Hi there, I'm [Junyeong Hwang!](https://github.com/devJunyeong) 👋
 
 
+<img src="https://github.com/GeekTree0101/Geektree0101/blob/master/hire.png" width=500pt />
+
+
 <br />
 Hi, I'm Junyeong Hwang, a Product Engineer.
 
@@ -13,6 +16,7 @@ Hi, I'm Junyeong Hwang, a Product Engineer.
 <code><img height="20" src="https://img.shields.io/badge/RxSwift-B7178c?style=flat-squaree&logo=ReactiveX&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=flat-squaree&logo=JavaScript&logoColor=F0DB4F"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007acc?style=flat-squaree&logo=TypeScript&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-black?style=flat-squaree&logo=React&logoColor=61DBFB"></code>
 
 
 *Visitor's count :eyes:**  
