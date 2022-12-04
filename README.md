@@ -1,6 +1,9 @@
 ### Hi there, I'm [Junyeong Hwang!](https://github.com/devJunyeong) 👋
 
 
+<img src="https://img.danawa.com/images/descFiles/3/284/2283892_1_1355979763.PNG" width=500pt />
+
+
 <br />
 Hi, I'm Junyeong Hwang, a Product Engineer.
 
