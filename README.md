@@ -5,6 +5,6 @@
 - [망설이시고 계신가요? 티타임 환영해요!](https://www.linkedin.com/in/junyeong-hwang-760b03235/)
 
 <br />
-Hi, I'm Junyeong Hwang, a Product Engineer.
+Hi, I'm Junyeong Hwang, a Game client programmer.
 
 - 💬 Ask me about anything [here](https://github.com/devJunyeong/devJunyeong/issues)
