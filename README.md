@@ -14,4 +14,3 @@ Hi, I'm Junyeong Hwang, a Software Engineer.
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=flat-squaree&logo=JavaScript&logoColor=F0DB4F"></code>
 <code><img height="20" src="https://img.shields.io/badge/React-61DBFB?style=flat-squaree&logo=React&logoColor=ffffff"></code>
 <code><img height="20" src="https://img.shields.io/badge/Storybook-ff528c?style=flat-squaree&logo=Storybook&logoColor=ffffff"></code>
-<code><img height="20" src="https://img.shields.io/badge/Figma-black?style=flat-squaree&logo=Figma&logoColor=ffffff"></code>
